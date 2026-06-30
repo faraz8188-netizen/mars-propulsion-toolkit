@@ -4,6 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21055536.svg)](https://doi.org/10.5281/zenodo.21055536)
 [![Transparent MCDA](https://img.shields.io/badge/MCDA-fully%20transparent-brightgreen)]()
 [![Methalox vs Real Engines](https://img.shields.io/badge/methalox-validated%20vs%20Raptor%2FBE--4-blueviolet)]()
 
@@ -88,6 +89,15 @@ mars-propulsion-toolkit/
 
 ---
 
+## Research Paper and DOI
+
+This toolkit and accompanying research are archived on Zenodo, with both
+v1.0.0 and v1.1.0 published as separate citable versions:
+
+**Latest (v1.1.0): [10.5281/zenodo.21055536](https://doi.org/10.5281/zenodo.21055536)**
+
+---
+
 ## Verified Physical Data
 
 | Parameter | Value | Source |
@@ -151,7 +161,9 @@ Research interests: Hypersonic propulsion, spacecraft propulsion, planetary avia
   author = {Shaikh, Faraz},
   title  = {Mars Propulsion Toolkit: Transparent MCDA Engine and Methalox Combustion Chemistry},
   year   = {2026},
-  url    = {https://github.com/faraz8188-netizen/mars-propulsion-toolkit}
+  version = {v1.1.0},
+  doi    = {10.5281/zenodo.21055536},
+  url    = {https://doi.org/10.5281/zenodo.21055536}
 }
 ```
 
